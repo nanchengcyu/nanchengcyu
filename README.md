@@ -7,7 +7,7 @@
 - Q:他们可以选择百度去解决问题啊，为啥要来你这个辣鸡的知识库呢？
 - small answer：百度搜索出来的答案千篇一律，即使拥有你对应的问题解决方法，你去实际操作的时候，还是可能不适应你的先行windows版本的问题，因此选择建立一个基于我实操过的基于Windows11问题解决方案的大型知识库。
 - 也欢迎各位大佬们一起共建知识库😊！
-🌐 知识库网站链接：[ 邀请你共同编辑文档《windows小问题解决方法》](https://www.yuque.com/g/nanchengcyu/dubfny/rilaep5lcygv7md2/collaborator/join?token=LYzKpCBieLpmDIvT&source=doc_collaborator)
+- 🌐 知识库网站链接：[ 邀请你共同编辑文档《windows小问题解决方法》](https://www.yuque.com/g/nanchengcyu/dubfny/rilaep5lcygv7md2/collaborator/join?token=LYzKpCBieLpmDIvT&source=doc_collaborator)
 - ![image](https://github.com/nanchengcyu/nanchengcyu/assets/104661473/d810b518-1164-442b-928b-27abdacf7d67)
 
 - 📧 邮箱：[有任何问题请联系我哦😁](mailto:nanchengyu02@gmail.com)
