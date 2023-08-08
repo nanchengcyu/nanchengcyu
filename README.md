@@ -1,39 +1,64 @@
-# 欢迎来到我的 GitHub 主页！
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #222;
+    color: #eee;
+    margin: 0;
+    padding: 0;
+  }
+  .header {
+    background-color: #333;
+    text-align: center;
+    padding: 2em 0;
+  }
+  .header h1 {
+    margin: 0;
+    font-size: 3em;
+  }
+  .intro {
+    padding: 3em 0;
+    text-align: center;
+  }
+  .intro p {
+    font-size: 1.2em;
+    margin-bottom: 1em;
+  }
+  .summary {
+    text-align: center;
+    padding: 3em 0;
+  }
+  .summary img {
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+  }
+</style>
+</head>
+<body>
 
-## 个人简介
+<div class="header">
+  <h1>Welcome to My GitHub Page</h1>
+</div>
 
-👋 你好！我是[你的名字]，一名热爱编程和开源的开发者。我喜欢探索新技术，构建有趣的项目，并与全球开发社区分享我的经验和见解。
+<div class="intro">
+  <p>Hello! I'm <strong>Your Name</strong>, a passionate developer who loves coding and open source. I enjoy exploring new technologies, building interesting projects, and sharing my experiences with the global developer community.</p>
+  <p>Let's connect and collaborate!</p>
+  <ul>
+    <li>🌐 Website: <a href="https://www.example.com">www.example.com</a></li>
+    <li>📧 Email: <a href="mailto:your@email.com">your@email.com</a></li>
+    <li>🐦 Twitter: <a href="https://twitter.com/your_twitter">@your_twitter</a></li>
+    <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/your_linkedin">your_linkedin</a></li>
+  </ul>
+</div>
 
-- 🌐 网站：[你的个人网站链接](https://www.example.com)
-- 📧 邮箱：[你的邮箱地址](mailto:你的邮箱地址)
-- 🐦 Twitter：[@你的Twitter用户名](https://twitter.com/你的Twitter用户名)
-- 💼 LinkedIn：[你的LinkedIn链接](https://www.linkedin.com/in/你的LinkedIn用户名)
+<div class="summary">
+  <h2>This Year's Highlights</h2>
+  <p>Let's take a look at some of my achievements in the open source community this year:</p>
+  <img src="https://example.com/github-summary.gif" alt="GitHub Summary GIF">
+</div>
 
-## 今年汇总
-
-📊 让我们来看看我今年在开源社区取得的一些成就吧：
-
-### 项目 A
-
-[项目 A名称](链接到项目A仓库) - 一句简短的项目描述。例如：一个用于处理图像的Python库，支持多种滤镜效果。
-
-- 🌟 获得了 X 个星标
-- 📚 发布了 X 个版本
-- 🐛 提交了 X 个问题修复和功能改进
-
-### 项目 B
-
-[项目 B名称](链接到项目B仓库) - 另一个项目的描述。例如：一个基于React的交互式界面组件库。
-
-- 🌟 获得了 X 个星标
-- 📚 发布了 X 个版本
-- 🐛 提交了 X 个问题修复和功能改进
-
-## 联系我
-
-如果你对我的项目或者开源工作感兴趣，欢迎随时联系我！我非常期待与你交流。
-
-- 📧 电子邮箱：[你的邮箱地址](mailto:你的邮箱地址)
-- 💬 GitHub Issues：[在这里提问](链接到GitHub Issues页面)
-
-感谢你来访我的 GitHub 主页！希望我们能够一起为开源社区做出更多贡献。
+</body>
+</html>
