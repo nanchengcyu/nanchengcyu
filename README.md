@@ -9,7 +9,7 @@
 - 也欢迎各位大佬们一起共建知识库😊！
 -  🌐 知识库网站链接：[ 邀请你共同编辑文档《windows小问题解决方法》](https://www.yuque.com/g/nanchengcyu/dubfny/rilaep5lcygv7md2/collaborator/join?token=LYzKpCBieLpmDIvT&source=doc_collaborator)
 - 📧 邮箱：[有任何问题请联系我哦😁](mailto:nanchengyu02@gmail.com)
-- 💼 公众号：[南城余-欢迎你的关注哦](https://mp.weixin.qq.com/s/iAweT4-DOiQirodhuebkIw)
+- 💼 公众号：[南城余-欢迎你的关注哦](https://mp.weixin.qq.com/s/wgnZm1KVEIh-vJxXQreTLQ)
 
 ## 今年汇总
 
